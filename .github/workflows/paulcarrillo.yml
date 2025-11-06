@@ -29,5 +29,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/${{ secrets.GHCR_USERNAME }}/paulcarrillo
+          tags: ghcr.io/paul1578/paul1578:1.0.0
           
